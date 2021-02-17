@@ -1,5 +1,5 @@
 # Data-Story-Craft-Homicide
-Data Collection
+
 
 The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities.
 
@@ -10,7 +10,6 @@ Reporters received data in many formats, including paper, and worked for months 
 In some cases, departments provided only partial information about the homicides, so reporters consulted public records, including death certificates, court records and medical examiner reports, to fill in the gaps. The data is more specific than the federal homicide data gathered annually by the FBI from police agencies nationwide.
 
 The Post mapped each homicide, identifying arrest rates by geography in each city, sharing the analysis with the local police department prior to publication.
-Definitions
 
 When possible, The Post followed definitions used in the FBI’s Uniform Crime Reporting Program. In that program, homicides include murder and non-negligent manslaughter but exclude suicides, accidents, justifiable homicides and deaths caused by negligence.
 
